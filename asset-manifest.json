@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/velocity-motors/static/css/main.194a7a04.css",
+    "main.js": "/velocity-motors/static/js/main.80ecf513.js",
+    "static/js/453.d55405b4.chunk.js": "/velocity-motors/static/js/453.d55405b4.chunk.js",
+    "index.html": "/velocity-motors/index.html",
+    "main.194a7a04.css.map": "/velocity-motors/static/css/main.194a7a04.css.map",
+    "main.80ecf513.js.map": "/velocity-motors/static/js/main.80ecf513.js.map",
+    "453.d55405b4.chunk.js.map": "/velocity-motors/static/js/453.d55405b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.194a7a04.css",
+    "static/js/main.80ecf513.js"
+  ]
+}
